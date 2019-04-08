@@ -1,7 +1,7 @@
 //1.8 Escreva um programa para um terminal de banco, que recebe um valor inteiro R e determina
 //o número de notas de 100, 50, 10, 5 e 1 reais necessárias para pagar a quantia R. Faça de
 //forma que o número de notas usado seja o menor possível.
-
+//ttt
 const num_notas = valor => {
   let resto = 0;
   let n100 = 0;
